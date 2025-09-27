@@ -16,14 +16,22 @@
 
 I'm a computer science student and aspiring machine learning engineer based in Heidelberg, Germany. My main focus is on developing and applying machine learning methods, from deep learning to modern generative AI, while also exploring their real‑world applications.
 
-<img align="right" src="./assets/gianni4-wave.gif" alt="Gianni fractal animation" width="200" style="margin-left:16px;" />
-
-## About me
-
-- 🔭 I'm currently working on several interesting projects and enjoy collaborating with others.
-- 🌱 I'm always learning and experimenting with new tools and languages.
-- 💬 Feel free to ask me anything or reach out for a chat.
-- 📫 You can connect with me on [LinkedIn](https://www.linkedin.com/in/giannigagliardi/).
+<table width="100%">
+  <tr>
+    <td style="vertical-align:top;">
+      <h2>About me</h2>
+      <ul>
+        <li>🔭 I'm currently working on several interesting projects and enjoy collaborating with others.</li>
+        <li>🌱 I'm always learning and experimenting with new tools and languages.</li>
+        <li>💬 Feel free to ask me anything or reach out for a chat.</li>
+        <li>📫 You can connect with me on <a href="https://www.linkedin.com/in/giannigagliardi/">LinkedIn</a>.</li>
+      </ul>
+    </td>
+    <td align="center" width="240" style="vertical-align:middle;">
+      <img src="./assets/gianni4-wave.gif" alt="Gianni fractal animation" width="200" />
+    </td>
+  </tr>
+</table>
 
 ---
 
