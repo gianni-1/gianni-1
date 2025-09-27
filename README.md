@@ -1,5 +1,5 @@
 <p align="center">
-  ![Gianni waving GIF](https://media.giphy.com/media/uLe3hV9oodasXAsqMH/giphy.gif)
+  <img src="https://media.giphy.com/media/uLe3hV9oodasXAsqMH/giphy.gif" width="400" alt="Gianni waving GIF" />
 </p>
 
 # Hello there, I'm Gianni 👋
