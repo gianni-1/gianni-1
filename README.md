@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://youtube.com/shorts/11hh_FaHW-Y?si=mT5d3JbyMPK4N3Br" style="display:block;">
-    <img src="./assets/gianni-wave-wide.gif" alt="Gianni waving GIF" style="display:block;width:100%;height:auto;" />
+    <img src="./assets/gianni3-wave-wide.gif" alt="Gianni waving GIF" style="display:block;width:100%;height:auto;" />
   </a>
   <!-- Used the following command to reshape the gif while preserving animation:
        ffmpeg -i assets/gianni-wave.gif -vf scale=960:-1 assets/gianni-wave-wide.gif -->
