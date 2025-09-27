@@ -1,7 +1,8 @@
 <p align="center">
-  <a href="https://youtube.com/shorts/11hh_FaHW-Y?si=mT5d3JbyMPK4N3Br">
-    <img src="./assets/gianni-wave.gif" width="400" alt="Gianni waving GIF" />
-  </a>
+  <a href="https://youtube.com/shorts/11hh_FaHW-Y?si=mT5d3JbyMPK4N3Br" style="display:block;">
+  <img src="./assets/gianni-wave.gif" alt="Gianni waving GIF" style="display:block;width:100%;height:auto;" />
+</a>
+
 </p>
 
 # Hello there, I'm Gianni 👋
