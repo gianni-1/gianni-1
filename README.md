@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/uLe3hV9oodasXAsqMH/giphy.gif" width="400" alt="Gianni waving GIF" />
+  ![Gianni waving GIF](https://media.giphy.com/media/uLe3hV9oodasXAsqMH/giphy.gif)
 </p>
 
 # Hello there, I'm Gianni 👋
 
-I'm a computer science professional based in Heidelberg, Germany. I love building software, exploring new technologies and contributing to open‑source projects.
+I'm a computer science student and aspiring machine learning engineer based in Heidelberg, Germany. My main focus is on developing and applying machine learning methods, from deep learning to modern generative AI, while also exploring their real‑world applications.
 
 ## About me
 
