@@ -16,7 +16,7 @@
 
 I'm a computer science student and aspiring machine learning engineer based in Heidelberg, Germany. My main focus is on developing and applying machine learning methods, from deep learning to modern generative AI, while also exploring their real‑world applications.
 
-<img align="right" src="./assets/gianni4-wave.gif" alt="Gianni fractal animation" width="260" />
+<img align="right" src="./assets/gianni4-wave.gif" alt="Gianni fractal animation" width="200" style="margin-left:16px;" />
 
 ## About me
 
