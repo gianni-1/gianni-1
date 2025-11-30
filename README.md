@@ -15,7 +15,7 @@
 <p align="center">
 <br>
 <a href="https://www.linkedin.com/in/giannigagliardi/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="mailto:giannig2001@gmail.com?subject=Hello%20Gianni"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<a href="mailto:mail@giannigagliardi.me?subject=Hello%20Gianni"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 </p>
 
 I'm a computer science student and aspiring machine learning engineer based in Heidelberg, Germany. My main focus is on developing and applying machine learning methods, from deep learning to modern generative AI, while also exploring their real‑world applications.
@@ -74,5 +74,4 @@ I'm a computer science student and aspiring machine learning engineer based in H
 <br>
 <br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gianni-1&show_icons=true&hide_border=true&theme=dark)
 ![Gianni's GitHub programming stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gianni-1&show_icons=true&hide_border=true&layout=compact&theme=dark)
